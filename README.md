@@ -95,3 +95,10 @@ Firebase offers two cloud-based, client-accessible database solutions that suppo
 - [Installation and Setup with Ionic CLI](docs/ionic/cli.md)
 - [Using AngularFire with Ionic 2](docs/ionic/v2.md)
 - [Using AngularFire with Ionic 3](docs/ionic/v3.md)
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
